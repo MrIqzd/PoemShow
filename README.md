@@ -1,5 +1,6 @@
 # processing data
 主要是做毕设gtnnwr相关时数据处理函数
+主要gtnnwr代码没有传
 
 ```
 clipRaster2.py
